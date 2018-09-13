@@ -2,6 +2,7 @@
 
 ### Acties
 1. Datum vaststellen: woensdag collegeweek 2 van 9:00 tot 14:00u
+2. Lokalen (Auditorium en groot lokaal) en catering (koffie en lunch) regelen
 2. Alle docenten cq begeleiders inroosteren
 3. Projecten verzamelen en inventariseren
 4. Uitnodiging naar projectpartners versturen
@@ -12,12 +13,12 @@
 8. Teams samenstellen
 
 9. Pitchdag - Programma:
--- 08:45 - Ontvangst (koffie)
--- 09:00 - Introductie
--- 09:15 - Start pitches (5 minuten ??Pecha Kucha)
--- 10:30 - Pauze en definitieve voorkeur bij studenten ophalen
--- 11:00 - Speeddates (3 rondes)
--- 12:00 - Lunch en netwerk
+   - 08:45 - Ontvangst (koffie)
+   - 09:00 - Introductie
+   - 09:15 - Start pitches (5 minuten ??Pecha Kucha)
+   - 10:30 - Pauze en definitieve voorkeur bij studenten ophalen
+   - 11:00 - Speeddates (3 rondes)
+   - 12:00 - Lunch en netwerk
 
 10. Definitieve match bepalen
 11. Nieuwe charters ophalen
